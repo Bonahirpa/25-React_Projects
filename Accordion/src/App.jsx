@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Index from "./components/Index"
 function App() {
   return (
     <>
-      <h1>helloq</h1>
-    </>
+      <Index />
+      </>
   )
 }
 
